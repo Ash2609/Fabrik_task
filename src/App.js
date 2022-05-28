@@ -62,10 +62,7 @@ export function App() {
           <Route exact path="/model12">
             <Model12/>
           </Route>
-        <Route exact path="/">
-          
         <Landing/>
-        </Route>
   </Switch>
 
 </Router>
